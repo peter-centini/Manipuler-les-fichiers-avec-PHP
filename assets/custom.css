@@ -1,0 +1,22 @@
+body{
+    font-family: "Courier New", serif;
+    color: green;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4,
+strong{
+    font-family: 'Special Elite', "Courier New", serif;
+}
+
+
+h1{
+    font-size: 5rem;
+}
+strong{
+    font-size: 1.1em;
+}
+
+.navbar-brand{
+    height: auto;
+}
